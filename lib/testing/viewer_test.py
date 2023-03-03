@@ -1,7 +1,7 @@
 import pytest
 
-from classes.movie import Movie
-from classes.viewer import Viewer
+from movie import Movie
+from viewer import Viewer
 
 class TestViewer:
     '''Viewer in viewer.py'''
